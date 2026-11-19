@@ -8,7 +8,19 @@
 > - MCU：`IIS3DWB_PERF_R5`（工程中还包含 MCU OPT V1.2、CAL V1.4、RATE V1.1、FFT V3、FLASH ECC V3、UART V3 等模块标识）
 > - PC：`CRC Diagnostic R6`（中文 / English）
 > - R6 增加串口错误证据记录与诊断能力；**不代表 CRC/数据不连续问题已被彻底修复**。
+<img width="1555" height="795" alt="image" src="https://github.com/user-attachments/assets/d364b814-3be3-4972-91c8-21db0729a14b" />
+<img width="1600" height="1164" alt="12c720a84e2a6dfe2ead4b2f84e5650a" src="https://github.com/user-attachments/assets/7af8595c-93b6-496e-bae7-3f225465caa2" />
 
+------------------------------------------------------------------------
+## 项目维护者与联系方式 \| Project Maintainer & Contact
+
+- **Name / 姓名**: Billy
+- **交流群 / Discussion Group**: 925643491
+- **Email / 邮箱**: <a845656974@outlook.com>
+- **Phone / 电话**: +86 15622736378
+
+
+------------------------------------------------------------------------
 ---
 
 ## 目录
